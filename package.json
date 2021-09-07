@@ -1,12 +1,28 @@
 {
   "name": "babel-plugin-catch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add trycatch to your magic comment",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzeyang/babel-plugin-catch.git"
+  },
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [
     "babel-plugin"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "@babel/core": "7.12.3"
+  },
+  "bugs": {
+    "url": "https://github.com/liuzeyang/babel-plugin-catch/issues"
+  },
+  "homepage": "https://github.com/liuzeyang/babel-plugin-catch#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuzeyang"
 }
