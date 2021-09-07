@@ -1,0 +1,12 @@
+{
+  "name": "babel-plugin-catch",
+  "version": "0.0.1",
+  "description": "Add trycatch to your magic comment",
+  "repository": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {}
+}
