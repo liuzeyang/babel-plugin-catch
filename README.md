@@ -30,6 +30,7 @@ npm install babel-plugin-catch or yarn add babel-plugin-catch
 {
   "plugins": [
     ["babel-plugin-catch", {
+      comment?: 'catch',
       catchCode?: (e) => {
 
       },
