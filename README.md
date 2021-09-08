@@ -7,7 +7,7 @@ Add trycatch to your magic comment
 npm install babel-plugin-catch or yarn add babel-plugin-catch
 ```
 
-## Uasge
+## Usage
 
 
 ```javascript
