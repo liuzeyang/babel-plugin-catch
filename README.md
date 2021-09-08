@@ -11,15 +11,15 @@ npm install babel-plugin-catch or yarn add babel-plugin-catch
 
 
 ```javascript
-  const test = (/* catch */) => {
+  const test = (num/* catch */) => {
 
   }
   class Test{
-    test(/* catch */){
+    test(num, num2/* catch */){
 
     }
 
-    test = (/* catch */) => {
+    test = (num, num2/* catch */) => {
 
     }
   }

@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-catch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add trycatch to your magic comment",
   "repository": {
     "type": "git",
